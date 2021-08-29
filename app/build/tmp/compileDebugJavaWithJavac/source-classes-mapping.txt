@@ -1,0 +1,2 @@
+kr/uni/alarm/BuildConfig.java
+ kr.uni.alarm.BuildConfig
